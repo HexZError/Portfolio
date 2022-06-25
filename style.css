@@ -47,6 +47,11 @@
 	margin-top: 33px;
 	font-size:30px;
 	cursor: pointer;
+	color: white;
+}
+.icon-section i:hover{
+	color: #949494;
+	transition: 0.5s;
 }
 .intro{
 	background-color: whitesmoke;
@@ -300,6 +305,7 @@
 .social-media i{
 	padding: 20px 40px;
 	font-size: 2rem;
+	color: black;
 }
 .contact-form{
 	background-color: #f2f0f0;
@@ -342,4 +348,12 @@
 	background-color: #101010;
 	color: white;
 	font-size: 1rem;
+}
+.contact-icon-section i{
+	float: right;
+	margin-right: 40px;
+	margin-top: 33px;
+	font-size:30px;
+	cursor: pointer;
+	color: white;
 }
